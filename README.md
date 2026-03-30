@@ -33,7 +33,7 @@ I specialize in transforming complex data into actionable insights that help bus
 - Built machine learning models to identify high-risk customers
 - Delivered actionable retention insights
 
-👉 [View Project](LINK)
+👉 [View Project]([LINK](https://github.com/JuanCa85?tab=repositories))
 
 ---
 
@@ -41,7 +41,7 @@ I specialize in transforming complex data into actionable insights that help bus
 - Detected performance issues using data analysis
 - Proposed operational improvements
 
-👉 [View Project](LINK)
+👉 [View Project]([LINK](https://github.com/JuanCa85/call-center-performance-analysis))
 
 ---
 
