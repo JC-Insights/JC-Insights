@@ -33,8 +33,7 @@ I specialize in transforming complex data into actionable insights that help bus
 - Built machine learning models to identify high-risk customers
 - Delivered actionable retention insights
 
-👉 [View Project] https://github.com/JuanCa85?tab=repositories
-
+👉 [View Project] https://github.com/JuanCa85/customer-churn-prediction
 ---
 
 ### 🔹 Identifying Inefficient Call Center Operators
