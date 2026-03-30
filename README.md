@@ -34,6 +34,7 @@ I specialize in transforming complex data into actionable insights that help bus
 - Delivered actionable retention insights
 
 👉 [View Project] https://github.com/JuanCa85/customer-churn-prediction
+
 ---
 
 ### 🔹 Identifying Inefficient Call Center Operators
