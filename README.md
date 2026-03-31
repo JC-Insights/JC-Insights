@@ -1,7 +1,7 @@
 # Hi, I'm Juan Carlos 👋
 
 Data Analyst | SQL • Python • Power BI  
-Turning data into business decisions
+Turning data into actionable business insights.
 
 ---
 
@@ -48,3 +48,12 @@ I specialize in transforming complex data into actionable insights that help bus
 ## 📫 Connect with me
 
 - LinkedIn: https://linkedin.com/in/juan-carlos-vm/
+
+---
+
+JC Insights
+
+Turning data into actionable business insights.
+
+👤 Juan Carlos Vértiz Millán  
+📊 Data Analyst | Python • SQL • Power BI
