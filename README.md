@@ -41,7 +41,7 @@ I specialize in transforming complex data into actionable insights that help bus
 - Detected performance issues using data analysis
 - Proposed operational improvements
 
-👉 [View Project] https://github.com/JuanCa85/call-center-performance-analysis
+👉 [View Project] https://github.com/JuanCa85/call-center-performance-analysis](https://github.com/JuanCa85/call-center-operations-optimization
 
 ---
 
