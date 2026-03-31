@@ -48,3 +48,5 @@ I specialize in transforming complex data into actionable insights that help bus
 ## 📫 Connect with me
 
 - LinkedIn: https://linkedin.com/in/juan-carlos-vm/
+
+Juan Carlos Vertiz. Built with passion for data.
